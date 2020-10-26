@@ -1,0 +1,2 @@
+# COVID_19 Project:
+When the pandemic occured, it is very important to properally and efficiently distrubte the limited medical resources. Therefore, the goal of this project is to create a fast and accurate model to classify the Covid_19 patients into two classes: One class is highest risk, who should go to the hospital to use the equipments; another class are in good status, who could stay at home to take medicine and have a good rest, thus survive the virus. 
